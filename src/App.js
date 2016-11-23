@@ -13,8 +13,9 @@ var App = React.createClass({
 				<div className="App">
 					<div className = "navbar">
 						<Link className="link" activeClassName='active' to="/"><i className="fa fa-home"></i></Link>
-						<Link className="link" activeClassName='active' to="/page-1">Page 1</Link>
-						<Link className="link" activeClassName='active' to="/page-2">Page 2</Link>
+						<Link className="link" activeClassName='active' to="/AboutMe">About Me</Link>
+						<Link className="link" activeClassName='active' to="/Projects">Projects</Link>
+						<Link className="link" activeClassName='active' to="/Activities">Activities</Link>
 					</div>
 					<div className="children">
 						{this.props.children}

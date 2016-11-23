@@ -2,6 +2,7 @@
   "name": "exercise-1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://students.washington.edu/jasonx24/info343/portfolio/",
   "devDependencies": {
     "react-scripts": "0.7.0"
   },

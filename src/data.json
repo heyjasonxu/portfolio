@@ -1,0 +1,48 @@
+{
+    "Projects": {
+        "1": {
+            "title": "Demographics of Marriage and Divorce",
+            "desc": "Using R programming language and Shiny api, our team analyzed a marriage and divorce dataset and made visualization of the data to help users understand how age, wealth, location and ethnicity affects divorce and marriage.",
+            "image": "img/demo.jpg",
+            "url": "https://github.com/jungwldbs/Info-final-project"
+        },
+        "2": {
+            "title": "Top 10 Spotify",
+            "desc": "Shows and gives a preview of the Top 10 track for an Artist in a selected country",
+            "image": "img/spotify.png",
+            "url": "http://students.washington.edu/jasonx24/info343/a5-spotify-heyjasonxu/main.html"
+        }
+    },
+    "Activities": {
+        "1": {
+            "title": "League of Legends",
+            "desc": "League of Legends is a fast-paced, competitive online game that blends the speed and intensity of an RTS with RPG elements. Two teams of powerful champions, each with a unique design and playstyle, battle head-to-head across multiple battlefields and game modes.",
+            "image": "img/lol.png",
+            "url": "https://na.leagueoflegends.com/"
+        },
+        "2": {
+            "title": "Basketball",
+            "desc": "Ball is Life",
+            "image": "img/kobe.jpg",
+            "url": "https://en.wikipedia.org/wiki/Basketball"
+        },
+        "3": {
+            "title": "Weight Training",
+            "desc": "Gainz",
+            "image": "img/weight.jpg",
+            "url": "https://en.wikipedia.org/wiki/Weight_training"
+        }
+    },
+
+    "Skills": {
+        "1": {
+            "skill": "Java",
+            "pro": "{{style: 70%}}"
+        },
+        "2": {
+            "skill": "R",
+            "pro": "{{style: 50%}}"
+        }
+    }
+
+}

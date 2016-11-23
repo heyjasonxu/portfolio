@@ -5,7 +5,7 @@ var LandingPage = React.createClass({
     render() {
         return(
             <div className="landing">
-                Landing Page!
+                This is my Portfolio.
             </div>
         )
     }

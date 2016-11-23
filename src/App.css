@@ -1,5 +1,5 @@
 .children {
-    margin:100px;
+    margin:10px;
 }
 .navbar {
     border-bottom:1px solid #d3d3d3;
@@ -22,4 +22,22 @@ a.link.active {
 
 a > i {
     opacity:1;
+}
+
+.card {
+    width: 350px;
+    display: inline-block;
+    margin: 20px;
+}
+
+@media screen and (min-width:768px) {
+    .children {
+    margin:50px;
+}
+}
+
+@media screen and (min-width:1000px) {
+    .children {
+    margin:100px;
+}
 }

@@ -1,8 +1,9 @@
 import React from 'react';
 import Card from './card';
+import './activities.css';
 
 // PageOne Component
-var PageTwo = React.createClass({
+var PageThree = React.createClass({
 	getInitialState() {
 		return {
 			projects: []
@@ -11,10 +12,10 @@ var PageTwo = React.createClass({
 
 	componentWillMount() {
 		var json = require('./data.json');
-		var projKeys = Object.keys(json['Projects']);
+		var projKeys = Object.keys(json['Activities']);
 		var proj = [];
 		projKeys.forEach(function(i) {
-			proj.push(json["Projects"][i]);
+			proj.push(json["Activities"][i]);
 		})
 		this.setState({
 			projects: proj
@@ -34,4 +35,4 @@ var PageTwo = React.createClass({
 	}
 });
 
-export default PageTwo;
+export default PageThree;
