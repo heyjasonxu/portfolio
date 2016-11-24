@@ -4,7 +4,7 @@
 
 ####2. What is the URL for this project on our student web-server?
 
->http://students.washington.edu/jasonx24/info343/a7/main.html
+>http://students.washington.edu/jasonx24/info343/a7/
 
 ####3. Did you receive help from any other sources (classmates, etc.)? If so, please list who.
 
